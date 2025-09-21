@@ -1,6 +1,6 @@
 # 💰 Smart Expense Tracker
 
-A responsive and interactive Expense Tracker web application built using **HTML**, **CSS**, and **JavaScript**. It allows users to add their income and expenses, view total income, total expenses, and remaining balance — all synced with **localStorage**. It also includes a category-wise breakdown visualized with a **doughnut chart** using Chart.js.
+A responsive and interactive Expense Tracker web application built using **HTML**, **CSS**, and **JavaScript**. It allows users to add their income and expenses, view total income, total expenses, and remaining balance — all synced with **localStorage**.
 
 ---
 
@@ -21,7 +21,6 @@ A responsive and interactive Expense Tracker web application built using **HTML*
 - **HTML5**
 - **CSS3**
 - **JavaScript (ES6)**
-- **Chart.js** (for visualizing expenses by category)
 
 ---
 
